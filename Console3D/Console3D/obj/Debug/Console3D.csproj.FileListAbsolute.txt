@@ -1,0 +1,6 @@
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Console3D\Console3D\bin\Debug\Console3D.exe.config
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Console3D\Console3D\bin\Debug\Console3D.exe
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Console3D\Console3D\bin\Debug\Console3D.pdb
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Console3D\Console3D\obj\Debug\Console3D.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Console3D\Console3D\obj\Debug\Console3D.exe
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Console3D\Console3D\obj\Debug\Console3D.pdb

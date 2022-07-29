@@ -1,0 +1,14 @@
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\bin\Debug\ObjectFiles\axis.obj
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\bin\Debug\ObjectFiles\landscape.obj
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\bin\Debug\ObjectFiles\SpaceShip.obj
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\bin\Debug\ObjectFiles\teapot.obj
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\bin\Debug\DrawingStarter.exe.config
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\bin\Debug\DrawingStarter.exe
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\bin\Debug\DrawingStarter.pdb
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\bin\Debug\DrawPanel.dll
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\bin\Debug\DrawPanel.xml
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\obj\Debug\DrawingStarter.csproj.CopyComplete
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\obj\Debug\DrawingStarter.exe
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\obj\Debug\DrawingStarter.pdb
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\obj\Debug\DrawingStarter.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Comp Prog\C# Projects\Engine3D\DrawingStarter\bin\Debug\tetrisLogo.png
